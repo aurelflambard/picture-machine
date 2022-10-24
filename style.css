@@ -1,0 +1,29 @@
+.container{
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+
+.machine{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.secteur-1, .secteur-2, .secteur-3{
+    border: solid black 2px;
+    border-radius: 10%;
+    width: 25%;
+    height: 25vh;
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+   width: 18%;
+    margin-left: 42%;
+    background: gold;
+    height: 4vh;
+}
